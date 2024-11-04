@@ -1,0 +1,28 @@
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\bin\Debug\net8.0\ASYNC L8.exe
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\bin\Debug\net8.0\ASYNC L8.deps.json
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\bin\Debug\net8.0\ASYNC L8.runtimeconfig.json
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\bin\Debug\net8.0\ASYNC L8.dll
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\bin\Debug\net8.0\ASYNC L8.pdb
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\obj\Debug\net8.0\ASYNC L8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\obj\Debug\net8.0\ASYNC L8.AssemblyInfoInputs.cache
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\obj\Debug\net8.0\ASYNC L8.AssemblyInfo.cs
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\obj\Debug\net8.0\ASYNC L8.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\obj\Debug\net8.0\ASYNC L8.dll
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\obj\Debug\net8.0\refint\ASYNC L8.dll
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\obj\Debug\net8.0\ASYNC L8.pdb
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\obj\Debug\net8.0\ASYNC L8.genruntimeconfig.cache
+C:\Users\vlady\OneDrive\Робочий стіл\ASYNC L8\obj\Debug\net8.0\ref\ASYNC L8.dll
+C:\C#\ASYNC L8\bin\Debug\net8.0\ASYNC L8.exe
+C:\C#\ASYNC L8\bin\Debug\net8.0\ASYNC L8.deps.json
+C:\C#\ASYNC L8\bin\Debug\net8.0\ASYNC L8.runtimeconfig.json
+C:\C#\ASYNC L8\bin\Debug\net8.0\ASYNC L8.dll
+C:\C#\ASYNC L8\bin\Debug\net8.0\ASYNC L8.pdb
+C:\C#\ASYNC L8\obj\Debug\net8.0\ASYNC L8.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ASYNC L8\obj\Debug\net8.0\ASYNC L8.AssemblyInfoInputs.cache
+C:\C#\ASYNC L8\obj\Debug\net8.0\ASYNC L8.AssemblyInfo.cs
+C:\C#\ASYNC L8\obj\Debug\net8.0\ASYNC L8.csproj.CoreCompileInputs.cache
+C:\C#\ASYNC L8\obj\Debug\net8.0\ASYNC L8.dll
+C:\C#\ASYNC L8\obj\Debug\net8.0\refint\ASYNC L8.dll
+C:\C#\ASYNC L8\obj\Debug\net8.0\ASYNC L8.pdb
+C:\C#\ASYNC L8\obj\Debug\net8.0\ASYNC L8.genruntimeconfig.cache
+C:\C#\ASYNC L8\obj\Debug\net8.0\ref\ASYNC L8.dll

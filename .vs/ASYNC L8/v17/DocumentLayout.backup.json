@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\ASYNC L8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{102891EB-7643-4DD0-91BE-B48CAC100FE4}|ASYNC L8.csproj|c:\\c#\\async l8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102891EB-7643-4DD0-91BE-B48CAC100FE4}|ASYNC L8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vlady\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C#\\lab1_sharpiku\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102891EB-7643-4DD0-91BE-B48CAC100FE4}|ASYNC L8.csproj|c:\\c#\\async l8\\v3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{102891EB-7643-4DD0-91BE-B48CAC100FE4}|ASYNC L8.csproj|solutionrelative:v3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102891EB-7643-4DD0-91BE-B48CAC100FE4}|ASYNC L8.csproj|c:\\c#\\async l8\\v2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{102891EB-7643-4DD0-91BE-B48CAC100FE4}|ASYNC L8.csproj|solutionrelative:v2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102891EB-7643-4DD0-91BE-B48CAC100FE4}|ASYNC L8.csproj|c:\\c#\\async l8\\v1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{102891EB-7643-4DD0-91BE-B48CAC100FE4}|ASYNC L8.csproj|solutionrelative:v1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "v3.txt",
+              "DocumentMoniker": "C:\\C#\\ASYNC L8\\v3.txt",
+              "RelativeDocumentMoniker": "v3.txt",
+              "ToolTip": "C:\\C#\\ASYNC L8\\v3.txt",
+              "RelativeToolTip": "v3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-04T15:23:10.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "v2.txt",
+              "DocumentMoniker": "C:\\C#\\ASYNC L8\\v2.txt",
+              "RelativeDocumentMoniker": "v2.txt",
+              "ToolTip": "C:\\C#\\ASYNC L8\\v2.txt",
+              "RelativeToolTip": "v2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-04T15:21:12.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "v1.txt",
+              "DocumentMoniker": "C:\\C#\\ASYNC L8\\v1.txt",
+              "RelativeDocumentMoniker": "v1.txt",
+              "ToolTip": "C:\\C#\\ASYNC L8\\v1.txt",
+              "RelativeToolTip": "v1.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-04T15:20:42.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\ASYNC L8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#\\ASYNC L8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:31:52.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C#\\lab1_sharpiku\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\vlady\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C#\\lab1_sharpiku\\Program.cs",
+              "ToolTip": "C:\\Users\\vlady\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C#\\lab1_sharpiku\\Program.cs",
+              "RelativeToolTip": "..\\..\\Users\\vlady\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\C#\\lab1_sharpiku\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:05:24.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
